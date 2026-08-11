@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ylnl9u.date-me.pro/sitemap.xml
